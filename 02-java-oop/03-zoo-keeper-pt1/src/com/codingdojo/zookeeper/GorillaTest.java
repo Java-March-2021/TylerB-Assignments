@@ -1,3 +1,4 @@
+package com.codingdojo.zookeeper;
 
 public class GorillaTest {
 	public static void main(String[] args) {

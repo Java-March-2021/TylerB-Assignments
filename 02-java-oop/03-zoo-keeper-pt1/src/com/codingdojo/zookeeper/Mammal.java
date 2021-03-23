@@ -1,3 +1,4 @@
+package com.codingdojo.zookeeper;
 
 public class Mammal {
 	private int energyLevel;
@@ -11,9 +12,6 @@ public class Mammal {
 	
 	public Mammal() {
 		this.energyLevel = 100;
-	}
-	public Mammal(int energy) {
-		this.energyLevel = energy;
 	}
 	
 	public int displayEnergy() {
