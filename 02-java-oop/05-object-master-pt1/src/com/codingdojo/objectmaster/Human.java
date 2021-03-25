@@ -1,10 +1,10 @@
 package com.codingdojo.objectmaster;
 
 public class Human {
-	private int strength;
-	private int stealth;
-	private int intelligence;
-	private int health;
+	protected int strength;
+	protected int stealth;
+	protected int intelligence;
+	protected int health;
 	
 	Human(){
 		this.strength = 3;
