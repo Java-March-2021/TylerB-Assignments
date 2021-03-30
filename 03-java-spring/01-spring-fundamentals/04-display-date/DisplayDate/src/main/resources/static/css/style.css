@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.date{
+	color: blue;
+}
+
+.time{
+	color: green;
+}
+
+a {
+	text-align: center;
+	padding: 20px;
+}
